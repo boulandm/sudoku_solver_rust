@@ -1,0 +1,9 @@
+[package]
+name = "soduku_solver"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mohammad"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
